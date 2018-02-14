@@ -3,8 +3,10 @@ CD_SERVICE_REPOS=(starter \
                   storer \
                   zipper \
                   differ \
+                  repl_container_python \
                   runner_stateful \
                   runner_stateless \
+                  runner_repl \
                   collector \
                   commander \
                   web \
